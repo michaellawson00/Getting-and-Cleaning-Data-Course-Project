@@ -22,4 +22,4 @@ After reading the "feaures_info.txt" file contained in the "UCI HAR Dataset" I d
 ".Y"->  "in direction Y"
 ".Z"->  "in direction Z"
 
-Finally, using the gropup_by and summarise fucntions contained in "dplyr" I grouped the dataset by activity and subject and returned the mean in a file called 'TidyCodeBook_MAL.txt'.
+Finally, using the group_by and summarise fucntions contained in "dplyr" I grouped the dataset by activity and subject and returned the mean in a file called 'TidyCodeBook_MAL.txt'.
